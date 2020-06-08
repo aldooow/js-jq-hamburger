@@ -16,6 +16,6 @@ $('a').click(function(){
     variabile = true;
   } else {
     $('.hamburger-menu').removeClass('active')
-    variabile=false;
+    variabile = false;
   }
 })
