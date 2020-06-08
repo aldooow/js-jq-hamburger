@@ -1,6 +1,6 @@
 /* ---> METODO 1*/
 
-$('.header-right a').click(function(){
+$('.header-right > a').click(function(){
   $('.hamburger-menu').addClass('active');
 });
 $('.hamburger-menu a.close').click(function(){
